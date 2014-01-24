@@ -1,0 +1,12 @@
+[
+	{ "keys": ["j", "j"], "command": "exit_insert_mode",
+		"context":
+		[
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
+		]
+	},
+	{ "keys": ["ctrl+shift+b"], "command": "exec", "args": {"kill": true} },
+
+  { "keys": ["ctrl+shift+y"], "command": "exec", "args": {"cmd": ["C:\\nodebob-master\\build.bat"]} }
+]

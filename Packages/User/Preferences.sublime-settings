@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
+	"detect_indentation": true,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"BlockCursorEverywhere"
+	],
+	"inverse_caret_state": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"vintage_start_in_command_mode": true
+}

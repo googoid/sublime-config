@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Better CoffeeScript",
+		"BlockCursorEverywhere",
+		"Shell Turtlestein",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/jlangston/BlockCursorEverywhere",
+		"https://github.com/tanepiper/SublimeText-Nodejs"
+	]
+}

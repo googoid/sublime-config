@@ -1,0 +1,949 @@
+{
+	"folder_history":
+	[
+		"/C/chatr/server",
+		"/C/chatr/client",
+		"/C/chatr",
+		"/C/nodebob-master/app"
+	],
+	"last_version": 3061,
+	"last_window_id": 11,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1020.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"auth",
+						"authToken"
+					],
+					[
+						"Contactli",
+						"ContactListResource"
+					],
+					[
+						"angul",
+						"angular"
+					],
+					[
+						"angular",
+						"angularjs"
+					],
+					[
+						"node",
+						"nodejs"
+					]
+				]
+			},
+			"build_system": "Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"upgra",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"add repo",
+						"Package Control: Add Repository"
+					],
+					[
+						"package",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"packag instl",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 338.0,
+				"history":
+				[
+					"close()",
+					"cloose()",
+					"exit",
+					"run asd",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/chatr/server/googo.key.pub",
+				"/C/chatr/server/npm-debug.log",
+				"/C/chatr/server/lib/User.coffee",
+				"/C/chatr/server/lib/Session.coffee",
+				"/C/chatr/server/package.json",
+				"/C/chatr/server/app.js",
+				"/C/chatr/server/chatr.sublime-project",
+				"/C/chatr/client/src/main.coffee",
+				"/C/chatr/client/bower.json",
+				"/C/chatr/client/js/main.js",
+				"/C/chatr/client/html/main.html",
+				"/C/chatr/client/src/chat.coffee",
+				"/C/chatr/client/src/index.coffee",
+				"/C/chatr/client/css/global.css",
+				"/C/chatr/client/css/login.css",
+				"/C/chatr/client/css/main.css",
+				"/C/chatr/client/html/login.html",
+				"/C/chatr/client/html/index.html",
+				"/C/chatr/client/src/login.coffee",
+				"/C/chatr/client/package.json",
+				"/C/chatr/client/login.html",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/scripts.sublime-snippet",
+				"/C/Users/GooGo/AppData/Local/Temp/Rar$DIa0.866/html.sublime-snippet",
+				"/C/Users/GooGo/AppData/Local/Temp/Rar$DIa0.251/HTML.tmLanguage",
+				"/C/Users/GooGo/AppData/Local/Temp/Rar$DIa0.987/html.sublime-snippet",
+				"/C/InstaChat/views/index.jade",
+				"/C/chatr/client/main.html",
+				"/C/chatr/client/.bowerrc",
+				"/C/chatr/client/Cakefile",
+				"/C/chatr/client/src/chatr.coffee",
+				"/C/chatr/client/index.html",
+				"/C/chatr_/bootstrap/bootstrap/less/variables.less",
+				"/C/chatr/client/js/chatr.js",
+				"/C/chatr/client/contactList.json",
+				"/C/chatr/client/js/chat.js",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/NodeWebkit.sublime-build",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/chatr/client/index.coffee",
+				"/C/chatr/client/img/icon_offline.png",
+				"/C/chatr/index.coffee",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Shell Turtlestein.sublime-settings",
+				"/C/chatr/Cakefile",
+				"/C/chatr/client/chatr.sublime-project",
+				"/C/chatr/app/index.coffee",
+				"/C/chatr/app/index.html",
+				"/C/chatr/app/package.json",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-build",
+				"/C/nodebob-master/app/node_modules/.bin/coffee",
+				"/C/nodebob-master/app/package.json",
+				"/C/InstaChat/config/index.js",
+				"/C/InstaChat/InstaChat.rar",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/InstaChat/InstaChat.sublime-project",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/cmd/cmd.py",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Vintage-master/vintage.py",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Vintage-master/Default.sublime-keymap",
+				"/C/InstaChat/app.js",
+				"/C/InstaChat/routes/user.js",
+				"/C/InstaChat/routes/index.js",
+				"/C/InstaChat/package.json",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Tomorrow-Night.tmTheme",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/SublimeBlockCursor-master/SublimeBlockCursor.py"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					"C:\\chatr\\client"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ngresource",
+					"lg-",
+					"link",
+					"url",
+					"  {",
+					"space",
+					"-p",
+					"sbuild",
+					"which",
+					"overflow",
+					"cursor",
+					"ignored",
+					"color_scheme",
+					"in",
+					"Tomorrow",
+					"}\n",
+					"User",
+					"color_scheme",
+					"User",
+					"color_scheme",
+					"User",
+					"color_scheme"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"xs-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 194.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"C:\\Users\\GooGo\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\JSON.sublime-settings"
+					],
+					[
+						"pref",
+						"C:\\Users\\GooGo\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings"
+					],
+					[
+						"indj",
+						"views\\index.jade"
+					],
+					[
+						"chat",
+						"public\\js\\chat.js"
+					],
+					[
+						"global",
+						"public\\css\\global.css"
+					],
+					[
+						"index.ja",
+						"views\\index.jade"
+					],
+					[
+						"",
+						"public\\css\\global.css"
+					],
+					[
+						"glo",
+						"public\\css\\global.css"
+					],
+					[
+						"globa",
+						"public\\css\\global.css"
+					],
+					[
+						"app",
+						"app.js"
+					],
+					[
+						"routes",
+						"routes\\user.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+				],
+				"width": 378.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1597.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"auth",
+						"authToken"
+					],
+					[
+						"Contactli",
+						"ContactListResource"
+					],
+					[
+						"angul",
+						"angular"
+					],
+					[
+						"angular",
+						"angularjs"
+					],
+					[
+						"node",
+						"nodejs"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "server.coffee",
+					"settings":
+					{
+						"buffer_size": 2677,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "lib/Session.coffee",
+					"settings":
+					{
+						"buffer_size": 347,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "lib/User.coffee",
+					"settings":
+					{
+						"buffer_size": 267,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 289,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"upgra",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"add repo",
+						"Package Control: Add Repository"
+					],
+					[
+						"package",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"packag instl",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 338.0,
+				"history":
+				[
+					"close()",
+					"cloose()",
+					"exit",
+					"run asd",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/chatr/server/googo.key.pub",
+				"/C/chatr/server/npm-debug.log",
+				"/C/chatr/server/lib/User.coffee",
+				"/C/chatr/server/lib/Session.coffee",
+				"/C/chatr/server/package.json",
+				"/C/chatr/server/app.js",
+				"/C/chatr/server/chatr.sublime-project",
+				"/C/chatr/client/src/main.coffee",
+				"/C/chatr/client/bower.json",
+				"/C/chatr/client/js/main.js",
+				"/C/chatr/client/html/main.html",
+				"/C/chatr/client/src/chat.coffee",
+				"/C/chatr/client/src/index.coffee",
+				"/C/chatr/client/css/global.css",
+				"/C/chatr/client/css/login.css",
+				"/C/chatr/client/css/main.css",
+				"/C/chatr/client/html/login.html",
+				"/C/chatr/client/html/index.html",
+				"/C/chatr/client/src/login.coffee",
+				"/C/chatr/client/package.json",
+				"/C/chatr/client/login.html",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/scripts.sublime-snippet",
+				"/C/Users/GooGo/AppData/Local/Temp/Rar$DIa0.866/html.sublime-snippet",
+				"/C/Users/GooGo/AppData/Local/Temp/Rar$DIa0.251/HTML.tmLanguage",
+				"/C/Users/GooGo/AppData/Local/Temp/Rar$DIa0.987/html.sublime-snippet",
+				"/C/InstaChat/views/index.jade",
+				"/C/chatr/client/main.html",
+				"/C/chatr/client/.bowerrc",
+				"/C/chatr/client/Cakefile",
+				"/C/chatr/client/src/chatr.coffee",
+				"/C/chatr/client/index.html",
+				"/C/chatr_/bootstrap/bootstrap/less/variables.less",
+				"/C/chatr/client/js/chatr.js",
+				"/C/chatr/client/contactList.json",
+				"/C/chatr/client/js/chat.js",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/NodeWebkit.sublime-build",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/chatr/client/index.coffee",
+				"/C/chatr/client/img/icon_offline.png",
+				"/C/chatr/index.coffee",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Shell Turtlestein.sublime-settings",
+				"/C/chatr/Cakefile",
+				"/C/chatr/client/chatr.sublime-project",
+				"/C/chatr/app/index.coffee",
+				"/C/chatr/app/index.html",
+				"/C/chatr/app/package.json",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-build",
+				"/C/nodebob-master/app/node_modules/.bin/coffee",
+				"/C/nodebob-master/app/package.json",
+				"/C/InstaChat/config/index.js",
+				"/C/InstaChat/InstaChat.rar",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/InstaChat/InstaChat.sublime-project",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/cmd/cmd.py",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Vintage-master/vintage.py",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Vintage-master/Default.sublime-keymap",
+				"/C/InstaChat/app.js",
+				"/C/InstaChat/routes/user.js",
+				"/C/InstaChat/routes/index.js",
+				"/C/InstaChat/package.json",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/User/Tomorrow-Night.tmTheme",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/GooGo/AppData/Roaming/Sublime Text 3/Packages/SublimeBlockCursor-master/SublimeBlockCursor.py"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					"C:\\chatr\\client"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ngresource",
+					"lg-",
+					"link",
+					"url",
+					"  {",
+					"space",
+					"-p",
+					"sbuild",
+					"which",
+					"overflow",
+					"cursor",
+					"ignored",
+					"color_scheme",
+					"in",
+					"Tomorrow",
+					"}\n",
+					"User",
+					"color_scheme",
+					"User",
+					"color_scheme",
+					"User",
+					"color_scheme"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"xs-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "server.coffee",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2677,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2294,
+										2294
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 513.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "lib/Session.coffee",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 347,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										176,
+										176
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "lib/User.coffee",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 267,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										114,
+										114
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 289,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										289,
+										289
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 194.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,1,-1,-1,-1,-1,1136,40,70,1645",
+			"project": "chatr.sublime-project",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"C:\\Users\\GooGo\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\JSON.sublime-settings"
+					],
+					[
+						"pref",
+						"C:\\Users\\GooGo\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings"
+					],
+					[
+						"indj",
+						"views\\index.jade"
+					],
+					[
+						"chat",
+						"public\\js\\chat.js"
+					],
+					[
+						"global",
+						"public\\css\\global.css"
+					],
+					[
+						"index.ja",
+						"views\\index.jade"
+					],
+					[
+						"",
+						"public\\css\\global.css"
+					],
+					[
+						"glo",
+						"public\\css\\global.css"
+					],
+					[
+						"globa",
+						"public\\css\\global.css"
+					],
+					[
+						"app",
+						"app.js"
+					],
+					[
+						"routes",
+						"routes\\user.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+				],
+				"width": 378.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": "/C/chatr/server/chatr.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/chatr/server/chatr.sublime-workspace",
+			"/C/chatr/client/chatr.sublime-workspace",
+			"/C/chatr/chatr.sublime-workspace",
+			"/C/chatr/InstaChat.sublime-workspace",
+			"/C/chatr/client/InstaChat.sublime-workspace",
+			"/C/nodebob-master/InstaChat.sublime-workspace",
+			"/C/InstaChat/InstaChat.sublime-workspace"
+		]
+	}
+}

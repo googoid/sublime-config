@@ -1,0 +1,21 @@
+{
+	"licensed": true,
+	"packages":
+	[
+		"AngularJS",
+		"Better CoffeeScript",
+		"Package Control",
+		"Shell Turtlestein",
+		"Theme - Soda"
+	],
+	"startup_sec": 0.1605205,
+	"syntax":
+	{
+		"CoffeeScript": 240,
+		"HTML": 41,
+		"JSON": 21,
+		"JavaScript": 4,
+		"Plain text": 4
+	},
+	"time": 1390511734
+}
